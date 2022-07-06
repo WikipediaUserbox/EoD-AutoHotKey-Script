@@ -22,4 +22,4 @@ RightClick: Get 1 number/element
 ': do *[whatever you've copied]
 \: add whatever you've copied
 
-Made by ShadowyZephyr#8566 on Discord.
+Made by ShadowyZephyr#8566 on Discord and mirrored to GitHub (https://github.com/WikipediaUserbox/EoD-AutoHotKey-Script) and Archive.org (https://archive.org/details/EoDAHKScript) by wikipediainfobox#1320
