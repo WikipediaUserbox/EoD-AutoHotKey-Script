@@ -22,3 +22,4 @@ RightClick: Get 1 number/element
 ': do *[whatever you've copied]
 \: add whatever you've copied
 
+Made by ShadowyZephyr#8566 on Discord.
