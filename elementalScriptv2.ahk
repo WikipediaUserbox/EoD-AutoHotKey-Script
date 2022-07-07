@@ -11,9 +11,9 @@ Down::
     }
         Send {Alt Up} ;Close switcher on hotkey release
 }
-Sleep, 68
+Sleep, 20
 Send, ^c
-Sleep, 68
+Sleep, 20
 Send, {Down}
 {   
         Send {Alt Down}{Tab} ;Bring up switcher immediately            
@@ -27,6 +27,7 @@ Send, {Down}
     }
         Send {Alt Up} ;Close switcher on hotkey release
 }
+Sleep, 20
 Send, ^v
 Send, {Enter}
 return
